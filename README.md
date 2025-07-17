@@ -57,6 +57,4 @@ To run this chatbot locally, follow these steps:
     ```
     (Replace `your_main_script_name.py` with the actual name of your Python file, e.g., `app.py` or `main.py`).
 
-## Example Usage and Output 💬
 
-Here's a short example of interacting with Chef Auguste:
