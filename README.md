@@ -59,7 +59,7 @@ To run this chatbot locally, follow these steps:
 
 ![Chef Auguste frenchtoast Screenshot](frenchtoast.png "A screenshot showing an example conversation about making an omelette with Chef Auguste.")
 ##
-you can change the "system_config" can make the chat bot act like any chat bot like medical diagnose extra. Change the config in main.py... 
+you can change the "system_instruction" can make the chat bot act like any chat bot like medical diagnose extra. Change the config in main.py... 
 Thankyou..
 --
 
